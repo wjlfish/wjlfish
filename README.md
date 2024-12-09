@@ -9,5 +9,4 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjlfish&show_icons=true&locale=en" alt="wjlfish" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wjlfish&show_icons=true&locale=en&layout=donut" alt="wjlfish" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjlfish&show_icons=true&locale=en" alt="wjlfish" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wjlfish&show_icons=true&locale=en&layout=donut" alt="wjlfish" /></p>
